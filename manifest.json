@@ -1,0 +1,9 @@
+{
+  "name": "Ramadan Companion",
+  "short_name": "RamadanApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B121E",
+  "theme_color": "#0B121E",
+  "description": "Your offline-capable Ramadan tracking companion."
+}
